@@ -1,2 +1,2 @@
 # a-pre-amp
-![image](https://user-images.githubusercontent.com/1305196/150660462-50a16be3-fe3b-42bd-bbb3-dce41d1e93ec.png)
+![image](https://user-images.githubusercontent.com/1305196/151431330-aa8773c8-a19e-4b31-bb64-0c2c8e0bd12a.png)
