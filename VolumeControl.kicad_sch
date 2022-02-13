@@ -940,6 +940,7 @@
     )
   )
 
+
   (junction (at 179.07 106.68) (diameter 0) (color 0 0 0 0)
     (uuid 05008934-11eb-48c2-a93a-ac9c1b1ef8d3)
   )
@@ -1807,8 +1808,8 @@
   (symbol (lib_id "Device:C_Polarized") (at 46.99 90.805 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1717e921-4091-4c54-887b-a0839176561b)
-    (property "Reference" "C2" (id 0) (at 46.101 83.185 90))
-    (property "Value" "C_Polarized 10µF 50V" (id 1) (at 46.101 85.725 90))
+    (property "Reference" "C2" (id 0) (at 46.101 83.82 90))
+    (property "Value" "10µF 50V" (id 1) (at 46.101 86.36 90))
     (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" (id 2) (at 50.8 89.8398 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2074,7 +2075,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 40e7b951-048f-4e48-a8af-5618f0f2ea6b)
     (property "Reference" "C5" (id 0) (at 194.691 58.42 90))
-    (property "Value" "C_Polarized 10µF 50V" (id 1) (at 194.691 60.96 90))
+    (property "Value" "10µF 50V" (id 1) (at 194.691 60.96 90))
     (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" (id 2) (at 199.39 65.0748 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2121,7 +2122,7 @@
     (in_bom yes) (on_board yes)
     (uuid 4ce57fb7-9194-48bc-ac60-3ab0c7c0e499)
     (property "Reference" "C10" (id 0) (at 259.461 109.22 90))
-    (property "Value" "C_Polarized 10µF 50V" (id 1) (at 267.97 111.76 90))
+    (property "Value" "10µF 50V" (id 1) (at 260.35 111.76 90))
     (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" (id 2) (at 264.16 115.8748 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2477,8 +2478,8 @@
   (symbol (lib_id "Device:C_Polarized") (at 47.625 50.165 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 905e2eb8-ed08-48ff-a286-311fff343d65)
-    (property "Reference" "C1" (id 0) (at 46.736 42.545 90))
-    (property "Value" "C_Polarized 10µF 50V" (id 1) (at 46.736 45.085 90))
+    (property "Reference" "C1" (id 0) (at 46.736 43.18 90))
+    (property "Value" "10µF 50V" (id 1) (at 46.736 45.72 90))
     (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" (id 2) (at 51.435 49.1998 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2840,7 +2841,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ed3fef4b-cc4a-4250-9658-5b4acdbdf3c3)
     (property "Reference" "C6" (id 0) (at 194.691 99.06 90))
-    (property "Value" "C_Polarized 10µF 50V" (id 1) (at 194.691 101.6 90))
+    (property "Value" "10µF 50V" (id 1) (at 194.691 101.6 90))
     (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" (id 2) (at 199.39 105.7148 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3036,10 +3037,10 @@
       (reference "#PWR0117") (unit 1) (value "-12VA") (footprint "")
     )
     (path "/905e2eb8-ed08-48ff-a286-311fff343d65"
-      (reference "C1") (unit 1) (value "C_Polarized 10µF 50V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
+      (reference "C1") (unit 1) (value "10µF 50V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/1717e921-4091-4c54-887b-a0839176561b"
-      (reference "C2") (unit 1) (value "C_Polarized 10µF 50V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
+      (reference "C2") (unit 1) (value "10µF 50V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/62ec7b12-3910-4dfb-b541-c56d8ce934cf"
       (reference "C3") (unit 1) (value "100n") (footprint "Capacitor_THT:C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02")
@@ -3048,10 +3049,10 @@
       (reference "C4") (unit 1) (value "100n") (footprint "Capacitor_THT:C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02")
     )
     (path "/40e7b951-048f-4e48-a8af-5618f0f2ea6b"
-      (reference "C5") (unit 1) (value "C_Polarized 10µF 50V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
+      (reference "C5") (unit 1) (value "10µF 50V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/ed3fef4b-cc4a-4250-9658-5b4acdbdf3c3"
-      (reference "C6") (unit 1) (value "C_Polarized 10µF 50V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
+      (reference "C6") (unit 1) (value "10µF 50V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/f07cdc4b-594e-4ac5-b160-79e19fe10617"
       (reference "C7") (unit 1) (value "1u") (footprint "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm")
@@ -3063,7 +3064,7 @@
       (reference "C9") (unit 1) (value "100n") (footprint "Capacitor_THT:C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02")
     )
     (path "/4ce57fb7-9194-48bc-ac60-3ab0c7c0e499"
-      (reference "C10") (unit 1) (value "C_Polarized 10µF 50V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
+      (reference "C10") (unit 1) (value "10µF 50V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/928923c8-0725-4ba2-bfa7-8f83e9fe749b"
       (reference "C11") (unit 1) (value "100n") (footprint "Capacitor_THT:C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02")
